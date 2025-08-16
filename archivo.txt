@@ -1,3 +1,1 @@
-Cambio desde rama
-Hola, soy un cambio desde ramaA
-
+Cambio distinto desde ramaB
